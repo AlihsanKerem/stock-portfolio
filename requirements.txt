@@ -1,0 +1,7 @@
+sqlalchemy
+yfinance
+pandas
+git+https://github.com/twopirllc/pandas-ta.git
+streamlit
+pytest
+PyYAML
