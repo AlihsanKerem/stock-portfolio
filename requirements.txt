@@ -1,7 +1,7 @@
 sqlalchemy
-yfinance
 pandas
-git+https://github.com/twopirllc/pandas-ta.git
+pandas-ta
+yfinance
 streamlit
-pytest
-PyYAML
+psycopg2-binary # For future Postgres support, good to have or we can stick to just sqlite driver built-in
+python-dotenv
